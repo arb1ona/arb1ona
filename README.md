@@ -1,7 +1,7 @@
 # Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
  I'm Arbiona ,  a Junior Web Developer focused on *MERN Stack*!
- ___
+ ##
  
 
 - 🔭 I’m a student at  [Strive School](https://strive.school/)
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Front-end Developer_
 
----
+ ##
   
 
 ### Languages and Tools:
@@ -37,9 +37,13 @@
 
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
+<br />
 <br />  
 
----
+##
+
+
 ###  Github Stats
 
 
