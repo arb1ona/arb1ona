@@ -12,7 +12,7 @@
 
 - 🥅 2020 Goals: Become a _Full Stack Developer_
 
-- ⚡ Fun fact: Went From _Architect_ to Full-time _Front-end Developer_
+- ⚡ Fun fact: Went From _Architect_ to Full-time _Front Stack Developer_
 
  ##
   
