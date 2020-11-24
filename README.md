@@ -1,6 +1,6 @@
 # Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ***Welcome to my GitHub profile!***
- I'm Arbiona ,  a _**Junior Front-end Developer**_! 
+ I'm Arbiona ,  a _**Junior Full Stack Developer**_! 
  ##
 
 
@@ -12,7 +12,7 @@
 
 - 🥅 2020 Goals: Become a _Full Stack Developer_
 
-- ⚡ Fun fact: Went From _Architect_ to Full-time _Full Stack Developer_
+- ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
 
  ##
   
