@@ -1,6 +1,6 @@
 # Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ***Welcome to my GitHub profile!***
- I'm Arbiona ,  a _**Junior Full Stack Developer**_! 
+ I'm Arbiona ,  a _**Full Stack Developer**_! 
  ##
 
 
