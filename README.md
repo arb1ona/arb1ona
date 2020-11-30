@@ -4,7 +4,7 @@
  ##
 
 
-- :mortar_board: Graduated at  [Strive School](https://strive.school/)
+- :mortar_board: Graduated at  [STRIVE School](https://strive.school/)
 
 - 🥅 2020 Goals: Become a _Full Stack Developer_
 
