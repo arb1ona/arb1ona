@@ -4,7 +4,7 @@
  ##
 
 
-- 🔭 I’m a student at  [Strive School](https://strive.school/)
+-:mortar_board: I’m a student at  [Strive School](https://strive.school/)
 
 - 💚 _MERN Stack_ is my favourite
 
