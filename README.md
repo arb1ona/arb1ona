@@ -4,13 +4,13 @@
  ##
 
 
--:mortar_board: I’m a student at  [Strive School](https://strive.school/)
+- :mortar_board: Graduated at  [Strive School](https://strive.school/)
+
+- 🥅 2020 Goals: Become a _Full Stack Developer_
 
 - 💚 _MERN Stack_ is my favourite
 
 - 👯 I’m looking to collaborate with other content creators
-
-- 🥅 2020 Goals: Become a _Full Stack Developer_
 
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
 
