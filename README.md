@@ -15,6 +15,13 @@
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
 
  ##
+ 
+ ## :woman_technologist: Projects
+
+> ...many more to come in the following days!
+
+- APPARTNER | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
+- Covid-19 Tracker | [Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
   
 
 ### Languages and Tools:
