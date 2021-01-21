@@ -4,9 +4,9 @@
  ##
 
 
-- :mortar_board: Graduated at  [STRIVE School](https://strive.school/)
+- :mortar_board: Graduated at  [STRIVE School](https://strive.school/) Fall 2020
 
-- 🥅 2021 Goals: Work as a _Full Stack Developer_/_Front-End Developer_
+- 🥅 2021 Goals: Work as a _Front-End Developer_/_Full Stack Developer_
 
 - 💚 _MERN Stack_ is my favourite
 
