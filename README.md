@@ -20,8 +20,9 @@
 
 > ...many more to come in the following days!
 
-- APPARTNER | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
-- Covid-19 Tracker | [Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
+- APPARTNER | React App | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
+- Covid-19 Tracker | React App | [Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
+- TMDb-The Movie Database Clone | MERN App | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
   
 
 ### Languages and Tools:
