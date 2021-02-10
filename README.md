@@ -7,23 +7,20 @@
 - :mortar_board: Graduated at  [STRIVE School](https://strive.school/) Fall 2020
 
 - 🥅 2021 Goals: Work as a _Front-End Developer_/_Full Stack Developer_
-
 - 💚 _MERN Stack_ is my favourite
-
 - 👯 I’m looking to collaborate with other content creators
-
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
 
  ##
  
  ## :woman_technologist: Projects
 
-> ...many more to come in the following days!
+> ...many more cool projects on their way! 🚀🚀🚀
 
 - APPARTNER | React App | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
 - Covid-19 Tracker | React App | [FrontEnd-Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
 - TMDb Clone | MERN App | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
-- Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) 
+- Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) | [Live](https://e-react-clone.web.app/).
 
 
 ### Languages and Tools:
