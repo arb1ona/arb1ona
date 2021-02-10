@@ -22,8 +22,9 @@
 
 - APPARTNER | React App | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
 - Covid-19 Tracker | React App | [FrontEnd-Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
-- TMDb-The Movie Database Clone | MERN App | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
-  
+- TMDb Clone | MERN App | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
+- Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) 
+
 
 ### Languages and Tools:
 
@@ -47,12 +48,3 @@
 
 
 <br />
-<br />  
-
-##
-
-
-###  Github Stats
-
-
-<img  align="left"  alt="arb1ona's Github Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=arb1ona&show_icons=true&hide_border=true" />  
