@@ -17,9 +17,9 @@
 
 > ...many more cool projects on their way! 🚀🚀🚀
 
-- APPARTNER | React App | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
-- Covid-19 Tracker | React App | [FrontEnd-Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
-- TMDb Clone | MERN App | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
+- APPARTNER | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
+- Covid-19 Tracker | [FrontEnd-Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
+- TMDb Clone | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
 - Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) | [Live](https://e-react-clone.web.app/).
 
 
