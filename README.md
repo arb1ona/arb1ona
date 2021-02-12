@@ -1,4 +1,4 @@
-# Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ***Welcome to my GitHub profile!***
  I'm Arbiona ,  a _**Full Stack Developer**_! 
  ##
@@ -13,7 +13,7 @@
 
  ##
  
- ## :woman_technologist: Projects
+ ## :woman_technologist: Projects or [Portfolio](http://localhost:3000/#/projects#projects)
 
 > ...many more cool projects on their way! 🚀🚀🚀
 
@@ -22,10 +22,9 @@
 - TMDb Clone | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
 - Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) | [Live](https://e-react-clone.web.app/).
 
+ ##
 
 ### Languages and Tools:
-
-  
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
