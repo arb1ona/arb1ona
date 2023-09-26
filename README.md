@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ***Welcome to my GitHub profile!***
- I'm Arbiona ,  a _**Full Stack Developer**_! 
+ I'm Arbiona ,  a _**Full Stack Developer**_ since 2020! 
  ##
 
 
@@ -17,11 +17,10 @@
 
 > ...many more cool projects on their way! 🚀🚀🚀
 
-- APPARTNER | [FrontEnd-Repo](https://github.com/arb1ona/Appartner) | [Live](https://appartner.herokuapp.com/).
+- APPARTNER | [FrontEnd-Repo](https://github.com/arb1ona/Appartner)
 - Covid-19 Tracker | [FrontEnd-Repo](https://github.com/arb1ona/COVID-19-TRACKER) | [Live](https://covid-19-tracker-b4127.web.app/).
 - TMDb Clone | [FrontEnd & Backend-Repo](https://github.com/arb1ona/TMDb-clone-MERN) 
-- Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone) | [Live](https://e-react-clone.web.app/).
-
+- Amazone Clone | [FrontEnd-Repo](https://github.com/arb1ona/Amazone-React-Clone)
  ##
 
 ### Languages and Tools:
