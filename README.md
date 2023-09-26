@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ***Welcome to my GitHub profile!***
- I'm Arbiona ,  a _**Full Stack Developer**_ since 2020! 
+ I'm Arbiona,  a _**Full Stack Developer**_ since 2020! 
  ##
 
 
@@ -10,6 +10,7 @@
 - 💚 _MERN Stack_ is my favourite
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
+- 🤓 I'm obsessed with self-development and productivity.
 
  ##
  
