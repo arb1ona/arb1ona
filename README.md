@@ -1,14 +1,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-***Welcome to my GitHub profile!***
  I'm Arbiona,  a _**Full Stack Developer**_ since 2020! 
  ##
 
-
 - :mortar_board: Started from 0 (_April'20_) Graduated (_October'20_)at  [STRIVE School](https://strive.school/) Fall 2020
-
-- 🥅 2021 Goals: Work as a _Front-End Developer_/_Full Stack Developer_
-- 💚 _MERN Stack_ is my favourite
-- 👯 I’m looking to collaborate with other content creators
+- 🇩🇰 Working and living in Denmark.
+- 💚 _MERN Stack_ is my favourite.
+- 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: Went From _Architect_ to Full-time _Developer_
 - 🤓 I'm obsessed with self-development and productivity.
 
