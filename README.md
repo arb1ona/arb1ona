@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
- I'm Arbiona,  a _**Full Stack Developer**_ since 2020! 
+ I'm Arbiona,  a _**Full Stack Developer**_! 
  ##
 
 - :mortar_board: Started from 0 (_April'20_) Graduated (_October'20_)at  [STRIVE School](https://strive.school/) Fall 2020
